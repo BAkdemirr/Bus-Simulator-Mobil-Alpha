@@ -26,3 +26,5 @@ Kamerayı sağa sola çevirme, otobüs içinde fps görüş ve geri vites sistem
 Eklenmesi gereken önemli detay: Trafikteki araçlar sizi görünce durmuyor çarpıyor.
 
 ![busSim2](https://user-images.githubusercontent.com/64818115/188948659-af681074-dba8-4046-b363-1884d124cdf6.png)
+
+Oyunun boyutunun büyük olması nedeniyle bazı otobüslerin texture'ları ve bazı hazır asset library'leri eklenmemiştir. Bus pack 3D asset'inin texture ve librarylerini manuel olarak yüklemek veya kendi texture packinizi yüklemeniz gerekebilir.
